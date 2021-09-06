@@ -1,0 +1,15 @@
+{
+  "name": "google-calculator-automation",
+  "version": "1.0.0",
+  "scripts": {
+    "e2e:calculator": "cypress open"
+  },
+  "description": "Tests the google calculator for the basic functioanlity",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^8.3.1"
+  },
+  "devDependencies": {},
+  "author": "Ivan Chavarria",
+  "license": "ISC"
+}
